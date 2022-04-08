@@ -1,0 +1,17 @@
+body
+{
+    background-color: #22396b;
+}
+h2
+{
+    color: green;
+}
+h1,h3,h4,h5,p,address
+{
+    color: white;
+}
+div,a
+{
+    color: red;
+    margin-right: 50px;
+}
