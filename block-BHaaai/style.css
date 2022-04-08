@@ -1,0 +1,41 @@
+body
+{
+    background-color: #22396b;
+}
+h2
+{
+    color: green;
+}
+h3,h4,h5,p,address
+{
+    color: white;
+}
+.footer,a
+{
+    color: red;
+    margin-right: 50px;
+    text-align: center;
+
+}
+img
+{
+    width: 22%;
+    margin-left: 20px;
+}
+h1,address
+{
+    color: white;
+    text-align: center;
+}
+.image
+{
+    text-align: center;
+}
+.footer
+{
+    background-color: #10244d;
+    width: 95%;
+    margin: 40px auto;
+    height: 40px;
+    padding-top: 20px;
+}
